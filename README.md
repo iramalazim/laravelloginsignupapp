@@ -5,5 +5,6 @@ Need to install Xampp and Composer on local computer.
 for runnig the app
 
 go to the app directory folder
-open terminal and write the given code and hit enter
-php artisan serve
+open terminal and write 
+"php artisan serve"
+and hit enter
